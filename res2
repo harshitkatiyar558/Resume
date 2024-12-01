@@ -1,0 +1,107 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+
+% Set up section and subsection formatting
+\titleformat{\section}[block]{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}[runin]{\normalfont\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}[runin]{\normalfont\itshape}{\thesubsubsection}{1em}{}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\LARGE Harshit Singh Katiyar} \\
+    \vspace{0.2cm}
+    B.Tech Student, SRMS CET, Bareilly \\
+    \href{mailto:harshit.singh@example.com}{harshit.singh@example.com} | +91-XXXXXXXXXX | \href{https://www.linkedin.com/in/harshit-singh}{linkedin.com/in/harshit-singh} | \href{https://github.com/harshitsingh}{github.com/harshitsingh}
+\end{center}
+
+\section*{Objective}
+Motivated and passionate B.Tech student with strong knowledge of Python programming and web development, seeking the Google STEP Internship to apply my skills in developing innovative solutions. Eager to work on impactful projects, gain experience, and contribute to cutting-edge technologies.
+
+\section*{Education}
+\noindent
+\textbf{Bachelor of Technology (B.Tech) in Computer Science and Engineering} \\
+SRMS College of Engineering and Technology, Bareilly \\
+\textit{Expected Graduation: 2027} \\
+Relevant Courses : Data Structures and Algorithms, Web Development, Object-Oriented Programming 
+
+\section*{Technical Skills}
+\begin{itemize}[label=--]
+    \item \textbf{Programming Languages:} Python, JavaScript, HTML, CSS
+    \item \textbf{Web Development:} React.js, Node.js, Express, Bootstrap, RESTful APIs
+    \item \textbf{Tools and Frameworks:} Git, Visual Studio Code, npm, Docker, Firebase
+    \item \textbf{Databases:} MySQL, MongoDB
+    \item \textbf{Others:} Problem Solving, Object-Oriented Programming, Agile Methodologies
+\end{itemize}
+
+\section*{Experience}
+\noindent
+\textbf{Web Development Virtual Intern} \\
+CodSoft \\
+July 2024 - September 2024
+\begin{itemize}[label=--]
+    \item Completed a virtual internship in web development, working on both front-end and back-end technologies.
+    \item Developed responsive web pages using HTML, CSS, and JavaScript to enhance user experience.
+    \item Built RESTful APIs with Node.js and Express to handle user requests and interactions.
+    \item Collaborated with a remote team, participating in code reviews and agile development practices.
+\end{itemize}
+
+\section*{Projects}
+\noindent
+\textbf{Snake Game in Python} \\
+A simple snake game developed using Python's Turtle graphics library, where the user controls a snake to eat food and grow longer while avoiding collisions with the walls and itself.
+
+\vspace{0.2cm}
+\noindent
+\textbf{Portfolio Website} \\
+Developed a personal portfolio website to showcase skills, projects, and achievements. The website is built with HTML, CSS, and JavaScript, featuring an interactive UI and responsive design for mobile and desktop users.
+
+\vspace{0.2cm}
+\noindent
+\textbf{Weather App} \\
+Created a weather application that fetches real-time weather data using an external API and displays it in a user-friendly interface. Built with JavaScript, HTML, and CSS.
+
+\vspace{0.2cm}
+\noindent
+\textbf{E-commerce Website} \\
+Built a fully functional e-commerce website using React.js for front-end and Node.js for back-end. Features include user authentication, product listing, shopping cart, and order management.
+
+\vspace{0.2cm}
+\noindent
+\textbf{Recipe Finder} \\
+Developed a web application that allows users to search for recipes based on available ingredients. Utilized external recipe APIs and built the app with React.js and Bootstrap for a clean and responsive user interface.
+
+\section*{Extracurricular Activities}
+\vspace{0.2cm}
+\noindent
+\textbf{Freelance Web Developer} \\
+January 2024 - Present \\
+- Worked as a freelance web developer on small projects, including designing and building responsive websites for local businesses.  
+- Gained experience in real-world web development while enhancing skills in HTML, CSS, JavaScript, and React.js.  
+- Collaborated with clients to deliver functional and aesthetically pleasing websites on time.
+
+\vspace{0.2cm}
+\noindent
+\textbf{Tech Talks and Online Learning Participation} \\
+- Actively participate in online tech talks, webinars, and virtual events on platforms like Coursera, edX, and Udemy to keep up with the latest trends in technology and software development.  
+- Engaged with the broader tech community to learn from industry professionals and deepen my knowledge of computer science topics.
+
+
+\section*{Certifications}
+\begin{itemize}[label=--]
+    \item \textbf{Python for Everybody Specialization} (Coursera) – July 2024
+    \item \textbf{Front-End Web Development with React} (Coursera) – September 2024
+\end{itemize}
+
+\section*{Achievements}
+\begin{itemize}[label=--]
+    \item Awarded 1st place in the coding competition organized by SRMS CET in 2024.
+    \item Secured a top 10 position in the national-level web development contest hosted by a major tech company.
+\end{itemize}
+
+\end{document}
